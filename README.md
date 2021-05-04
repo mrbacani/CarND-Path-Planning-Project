@@ -71,6 +71,3 @@ The percent difference value is never below 0 so the cost function would never r
 			lane = 1;
 		} 
 	}
-
-## Result
-![](ECE_495_Assignment_8_video.mp4)
